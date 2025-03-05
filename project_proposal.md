@@ -1,5 +1,5 @@
 Project Proposal: Bookstore Management Application
-
+----------------------------------------------------------------------------------------------------------------------------------
 Introduction
 Trong bối cảnh công nghệ phát triển nhanh chóng hiện nay, việc quản lý hiệu sách một cách hiệu quả trở nên quan trọng hơn bao giờ hết. Với sự ra đời của các công cụ kỹ thuật số, ta có thể đơn giản hóa các quy trình liên quan đến quản lý kho, theo dõi bán hàng và quản lý khách hàng. Do đó, việc phát triển một ứng dụng quản lý hiệu sách toàn diện với giao diện thân thiện người dùng và chức năng mạnh mẽ  là cần thiết để đáp ứng nhu cầu của các hiệu sách hiện đại.
 
@@ -38,13 +38,13 @@ Expected Outcomes
 Planning
 Dự án sẽ được thực hiện theo các giai đoạn sau:
 
-Giai Đoạn 	Thời Gian 	Hoạt Động 
-Phân tích yêu cầu 	1 tuần 	Thu thập và tài liệu hóa yêu cầu
-Thiết kế 	2 tuần 	Thiết kế sơ đồ cơ sở dữ liệu, giao diện người dùng
-Phát triển 	6 tuần 	Triển khai các Module, tích hợp với cơ sở dữ liệu
-Kiểm tra 	2 tuần 	Kiểm tra chức năng và hiệu suất của ứng dụng
-Triển khai 	1 tuần 	Triển khai ứng dụng, cung cấp đào tạo
-Bảo trì 	Liên tục 	Cung cấp hỗ trợ và cập nhật khi cần thiết
+Giai Đoạn 	         Thời Gian 	Hoạt Động 
+Phân tích yêu cầu 	1 tuần 	   Thu thập và tài liệu hóa yêu cầu
+Thiết kế 	         2 tuần 	   Thiết kế sơ đồ cơ sở dữ liệu, giao diện người dùng
+Phát triển 	         6 tuần 	   Triển khai các Module, tích hợp với cơ sở dữ liệu
+Kiểm tra 	         2 tuần 	   Kiểm tra chức năng và hiệu suất của ứng dụng
+Triển khai 	         1 tuần 	   Triển khai ứng dụng, cung cấp đào tạo
+Bảo trì 	            Liên tục 	Cung cấp hỗ trợ và cập nhật khi cần thiết
 
 Resources & Budget
 Nhân lực: 3 sinh viên thành thạo Python và SQLite
@@ -54,3 +54,20 @@ Ngân sách: Chi phí hạ tầng
 Conclusion
 Ứng dụng quản lý hiệu sách đề xuất nhằm cách mạng hóa cách quản lý hiệu sách bằng cách cung cấp một giải pháp tự động hóa, thân thiện với người dùng và hiệu quả, nhằm nâng cao năng suất và hiệu quả tổng thể của hiệu sách. 
 
+----------------------------------------------------------------------------------------------------------------------------------
+Project Plan
+----------------------------------------------------------------------------------------------------------------------------------
+
+      STT            Chế phẩm                      Người thực hiện            Thời gian dự tính                Hoàn thành            
+      1              Viết project plan             Duy Anh                    1 ngày                           ✓
+      2              Mô tả quy trình nghiệp vụ     Duy Anh                    1 tuần                           ✓
+      3              Khảo sát hiện trạng           Vũ Nghĩa                   1 tuần                           ✓
+      4              Biểu đồ BPM, Use case         Ngọc Huyền                 1 tuần                           ✓
+      5
+      6
+      7
+      8
+      9
+      10
+      11
+      12
