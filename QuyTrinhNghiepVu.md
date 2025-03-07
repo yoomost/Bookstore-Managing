@@ -54,9 +54,13 @@ Inventory Report (Báo cáo tồn)
 Thao tác:
 1. Nhân viên kiểm kê mở menu và chọn báo cáo tồn
 2. Hệ thống hiển thị danh sách tồn, bao gồm tháng lập báo cáo, tên sách, tồn đầu, phát sinh, tồn cuối
+
 Tháng: tháng hiện tại
+
 Tồn đầu: lưu từ nhập sách hoặc tồn cuối trước
+
 Phát sinh: lưu từ nhập sách hoặc hoá đơn mua sách, có thể âm
+
 Tồn cuối: = tồn đầu + phát sinh
 
 Debt Report (Báo cáo công nợ)
@@ -66,8 +70,12 @@ Debt Report (Báo cáo công nợ)
 Thao tác:
 1. Nhân viên kiểm kê mở menu và chọn báo cáo công nợ
 2. Hệ thống hiển thị danh sách tồn, bao gồm tháng lập báo cáo, tên khách hàng, nợ đầu, phát sinh, nợ cuối
+
 Tháng: tháng hiện tại
+
 Nợ đầu: lưu từ hoá đơn hoặc tồn cuối trước
+
 Phát sinh: lưu từ hoá đơn mua sách và phiếu thu tiền, có thể âm
+
 Nợ cuối: = nợ đầu + phát sinh
 
