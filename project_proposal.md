@@ -2,17 +2,17 @@ Project Proposal: Bookstore Management Application
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Introduction
-
+-------------
 Trong bối cảnh công nghệ phát triển nhanh chóng hiện nay, việc quản lý hiệu sách một cách hiệu quả trở nên quan trọng hơn bao giờ hết. Với sự ra đời của các công cụ kỹ thuật số, ta có thể đơn giản hóa các quy trình liên quan đến quản lý kho, theo dõi bán hàng và quản lý khách hàng. Do đó, việc phát triển một ứng dụng quản lý hiệu sách toàn diện với giao diện thân thiện người dùng và chức năng mạnh mẽ  là cần thiết để đáp ứng nhu cầu của các hiệu sách hiện đại.
 
 
 Problem Statement
-
+-------------
 Quản lý hiệu sách bao gồm nhiều công việc như duy trì kho sách, xử lý hóa đơn bán hàng, theo dõi biên lai, tạo báo cáo kho và nợ, và quản lý thông tin khách hàng. Các phương pháp thủ công truyền thống tốn nhiều thời gian, dễ xảy ra vấn đề và thiếu khả năng thống kê thông tin theo thời gian thực. Ta cần có một giải pháp tự động hóa để đơn giản hóa các công việc này, nhằm tránh sai sót và cung cấp thông tin chi tiết theo thời gian thực cho chủ hiệu sách.
 
 
 Objectives
-
+-------------
 1. Phát triển một ứng dụng quản lý hiệu sách thân thiện với người dùng bằng Python và Tkinter.
 2. Cung cấp các chức năng để nhập sách, tạo hóa đơn bán hàng, hiển thị danh sách sách, xử lý biên lai, tạo báo cáo kho và nợ.
 3. Tạo hệ thống cơ sở dữ liệu mạnh mẽ để lưu trữ và truy xuất dữ liệu một cách hiệu quả.
@@ -38,7 +38,7 @@ Quá trình phát triển:
 
 
 Expected Outcomes
-
+-------------
 1. Một ứng dụng quản lý hiệu sách hoàn chỉnh với giao diện thân thiện với người dùng.
 2. Quản lý kho sách, bán hàng và thông tin khách hàng một cách hiệu quả.
 3. Báo cáo chính xác và theo thời gian thực về tình trạng kho và nợ.
@@ -47,7 +47,7 @@ Expected Outcomes
 
 
 Planning
-
+-------------
 Dự án sẽ được thực hiện theo các giai đoạn sau:
 
       Giai Đoạn 	            Thời Gian 	      Hoạt Động 
@@ -60,7 +60,7 @@ Dự án sẽ được thực hiện theo các giai đoạn sau:
 
 
 Resources & Budget
-
+-------------
 Nhân lực: 3 sinh viên thành thạo Python và SQLite
 
 Công cụ: VSCode
@@ -69,7 +69,7 @@ Ngân sách: Chi phí hạ tầng
 
 
 Conclusion
-
+-------------
 Ứng dụng quản lý hiệu sách đề xuất nhằm cách mạng hóa cách quản lý hiệu sách bằng cách cung cấp một giải pháp tự động hóa, thân thiện với người dùng và hiệu quả, nhằm nâng cao năng suất và hiệu quả tổng thể của hiệu sách. 
 
 ----------------------------------------------------------------------------------------------------------------------------------
