@@ -3,6 +3,7 @@ Quy trình nghiệp vụ
 Import Books (Phiếu nhập sách)
 --------------------
 Đối tượng: quản lý kho, hệ thống
+
 Thao tác:
 1. Quản lý kho vào menu và chọn phiếu nhập sách
 2. Hệ thống hiển thị form phiếu nhập sách
@@ -17,6 +18,7 @@ Thao tác:
 Book Invoice (Hoá đơn)
 --------------------
 Đối tượng: khách hàng, nhân viên bán hàng, hệ thống
+
 Thao tác:
 1. Khách hàng tiến hành chọn sách để mua và ra quầy thu ngân
 2. Nhân viên bán hàng chọn menu và chọn hoá đơn
@@ -29,6 +31,7 @@ Thao tác:
 Book List (Danh sách Sách)
 --------------------
 Đối tượng: tất cả nhân viên và quản trị viên, hệ thống
+
 Thao tác:
 1. Nhân viên hoặc quản trị viên mở menu và chọn hiển thị danh sách sách
 2. Hệ thống hiển thị danh sách sách hiện có trong hệ thống, bao gồm tên sách, thể loại, tác giả và số lượng 
@@ -36,6 +39,7 @@ Thao tác:
 Receipts (phiếu thu tiền)
 --------------------
 Đối tượng: khách hàng, nhân viên bán hàng, hệ thống
+
 Thao tác:
 1. Nhân viên bán hàng mở menu, chọn phiếu thu tiền và nhập thông tin khách hàng
 2. Hệ thống tự động điền ngày thu tiền là ngày lập phiếu và số tiền thu. Số tiền thu không lớn hơn số tiền đang nợ trong hệ thống
@@ -46,6 +50,7 @@ Thao tác:
 Inventory Report (Báo cáo tồn)
 --------------------
 Đối tượng: nhân viên kiểm kê, hệ thống
+
 Thao tác:
 1. Nhân viên kiểm kê mở menu và chọn báo cáo tồn
 2. Hệ thống hiển thị danh sách tồn, bao gồm tháng lập báo cáo, tên sách, tồn đầu, phát sinh, tồn cuối
@@ -57,6 +62,7 @@ Tồn cuối: = tồn đầu + phát sinh
 Debt Report (Báo cáo công nợ)
 --------------------
 Đối tượng: nhân viên kiểm kê, hệ thống
+
 Thao tác:
 1. Nhân viên kiểm kê mở menu và chọn báo cáo công nợ
 2. Hệ thống hiển thị danh sách tồn, bao gồm tháng lập báo cáo, tên khách hàng, nợ đầu, phát sinh, nợ cuối
