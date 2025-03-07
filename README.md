@@ -14,4 +14,4 @@ Members
 
 [Nguyễn Ngọc Huyền](al517-c.github.io/ngochuyen.github.io/)
 
-[Dương Vũ Nghĩa](
+[Dương Vũ Nghĩa](https://vunghia2.github.io/vunghia41.github./)
