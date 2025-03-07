@@ -8,10 +8,10 @@ About us
 -----------------------------------------------------------------------------------------
 Leader
 
-[Đặng Quang Duy Anh](yoomost.github.io)
+[Đặng Quang Duy Anh](yoomost.github./)
 
 Members
 
-[Nguyễn Ngọc Huyền](al517-c.github.io/ngochuyen.github.io/)
+[Nguyễn Ngọc Huyền](al517-c.github.io/ngochuyen.github./)
 
 [Dương Vũ Nghĩa](https://vunghia2.github.io/vunghia41.github./)
