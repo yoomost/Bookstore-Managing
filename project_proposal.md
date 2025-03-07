@@ -73,19 +73,3 @@ Conclusion
 Ứng dụng quản lý hiệu sách đề xuất nhằm cách mạng hóa cách quản lý hiệu sách bằng cách cung cấp một giải pháp tự động hóa, thân thiện với người dùng và hiệu quả, nhằm nâng cao năng suất và hiệu quả tổng thể của hiệu sách. 
 
 ----------------------------------------------------------------------------------------------------------------------------------
-Project Plan
-----------------------------------------------------------------------------------------------------------------------------------
-
-      STT            Chế phẩm                      Người thực hiện            Thời gian dự tính                Hoàn thành            
-      1              Viết project plan             Duy Anh                    1 ngày                           ✓
-      2              Mô tả quy trình nghiệp vụ     Duy Anh                    1 tuần                           ✓
-      3              Khảo sát hiện trạng           Vũ Nghĩa                   1 tuần                           ✓
-      4              Biểu đồ BPM, Use case         Ngọc Huyền                 1 tuần                           ✓
-      5
-      6
-      7
-      8
-      9
-      10
-      11
-      12
