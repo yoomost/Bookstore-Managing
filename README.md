@@ -1,7 +1,7 @@
 Bookstore managing app
 -----------------------------------------------------------------------------------------
 
-A software technology project made for managing a bookstore
+A software technology project made for managing a bookstore. Currently in progress.
 
 
 About us
