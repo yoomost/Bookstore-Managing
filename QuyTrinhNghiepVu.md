@@ -79,3 +79,14 @@ Phát sinh: lưu từ hoá đơn mua sách và phiếu thu tiền, có thể âm
 
 Nợ cuối: = nợ đầu + phát sinh
 
+Exception change (Thay đổi quy định)
+--------------------
+Đối tượng: Quản trị viên, hệ thống
+
+Thao tác:
+1. Quản trị viên chọn menu và chọn mục thay đổi quy định chức năng hệ thống
+2. Hệ thống hiển thị danh sách quy định
+3. Quản trị viên chọn quy định cần thay đổi và nhập thay đổi
+4. Hệ thống lưu vào cơ sở dữ liệu
+
+
