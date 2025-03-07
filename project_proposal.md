@@ -20,7 +20,7 @@ Objectives
 
 
 Methodology
-
+-------------
 Công cụ: Python, Tkinter, SQLite
 Quá trình phát triển:
 1. Phân tích yêu cầu: Thu thập và phân tích yêu cầu của hiệu sách để hiểu rõ các chức năng cần thiết.
