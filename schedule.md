@@ -19,7 +19,7 @@ Project Plan
                      năng đầu) 
       8              Xây dựng sơ đồ lớp (3 chức    Duy Anh                    2 tuần
                      năng sau) 
-      9              Vẽ sơ đồ trạng thái           Ngọc Huyền                 2 tuần
+      9              Vẽ SD, sơ đồ trạng thái       Ngọc Huyền                 2 tuần
       10             Xây dựng môi trường kiểm      Duy Anh                    1 tuần
                      thử
       11             Viết Test Case                Ngọc Huyền                 1 tuần
