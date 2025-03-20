@@ -14,7 +14,7 @@ Project Plan
       3              Khảo sát hiện trạng           Vũ Nghĩa                   1 tuần                           ✓
       4              Biểu đồ BPM, Use case         Ngọc Huyền                 2 tuần                           ✓
       5              Vẽ Activity Diagram           Ngọc Huyền                 2 tuần
-      6              Xây dựng mô hình 3 lớp        Duy Anh                    1 tuần
+      6              Xây dựng mô hình 3 lớp        Duy Anh                    2 tuần
       7              Xây dựng sơ đồ lớp (3 chức    Vũ Nghĩa                   2 tuần
                      năng đầu) 
       8              Xây dựng sơ đồ lớp (3 chức    Duy Anh                    2 tuần
